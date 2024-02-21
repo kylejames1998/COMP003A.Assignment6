@@ -51,5 +51,7 @@ namespace COMP003A.Assignment6
             Console.WriteLine($"\t{sectionName} Section");
             Console.WriteLine("".PadRight(50, '*'));
         }
+
+        // comment for testing 
     }
 }
